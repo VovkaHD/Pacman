@@ -1,0 +1,7 @@
+Автор: Родин Владимир
+Моё задание сделать Pacman на PyGame.
+Я делал программе Pycharm использовал библеотеки Tk, Label, Entry, Button, PhotoImage, messagebox, END, Canvas, Timer, field, os, pygame, randint.
+Использовал класс MainEngine, PerpetualTimer, movingObject, levelObject, GameEngine.
+Управляется Pacman стрелками. 
+Сделал 6 уровней и меню где вписываются уровни, и 2 жизни за Pacman.
+
