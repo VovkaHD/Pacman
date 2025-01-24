@@ -1,0 +1,3 @@
+Моё задание сделать Pacman на Pygame, чтобы он работал по движениям стрелок и была карта.
+Я использовал библеотеки pygame, sys, WIDTH, HEIGHT, NAY_HEIGHT, World.
+Классы Main, Berry, Cell, Display, Ghost, Pac, World.
